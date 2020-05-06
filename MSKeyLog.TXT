@@ -1,0 +1,308 @@
+Microsoft Wireless Desktop Elite keyboard, model 1011
+-----------------------------------------------------
+
+ Results of Intellitype Pro mskey.exe keyboard test
+
+ * Text beginning with an asterisk are my added comments
+
+ * Scan codes of E0 81 and E0 59 do not correspond to
+   any particular key but appear to be sent randomly
+   during any key press. They can occur at the start of
+   a scan code sequence, or in the middle, or at the end.
+   No scan code is sent when the keyboard is not being used.
+   The "E0 81" looks like an extended Escape key.
+
+ * The Sleep key always produces these 3 pairs separated
+   by a 1 second pause:
+
+   E0 5F <1 second pause> E0 59 <1 second pause> E0 DF
+
+
++++++++++++++++++++++++++++++++
+Logging of Keystrokes Beginning
+06/06/07 19:45:50
++++++++++++++++++++++++++++++++
+Begin OneKey Test
+KeyName     ScanCode      
+--------------------------
+Key: My Documents ( make)	E0 4C 
+Key: My Documents (break)	E0 CC 
+Key: My Pictures ( make)	E0 64 
+Key: My Pictures (break)	E0 E4 
+Key: My Music ( make)	E0 3C 
+Key: My Music (break)	E0 BC 
+Key: Mute   ( make)	E0 20 
+Key: Mute   (break)	E0 A0 
+Key: Play   ( make)	E0 22 
+Key: Play   (break)	E0 A2 
+Key: Stop   ( make)	E0 24 
+Key: Stop   (break)	E0 A4 
+Key: Vol +  ( make)	E0 30 
+Key: Vol +  (break)	E0 B0 
+Key: Vol -  ( make)	E0 2E 
+Key: Vol -  (break)	E0 AE 
+Key: Previous ( make)	E0 10 
+Key: Previous (break)	E0 90 
+Key: Next   ( make)	E0 19 
+Key: Next   (break)	E0 99 
+Key: ??Unknown?? (break)	E0 81 
+Key: Media  ( make)	E0 6D 
+Key: Media  (break)	E0 ED 
+Key: Mail   ( make)	E0 6C 
+Key: Mail   (break)	E0 EC 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Home   ( make)	E0 32 
+Key: Home   (break)	E0 B2 
+Key: Messenger ( make)	E0 05 
+Key: Messenger (break)	E0 85 
+Key: Esc    ( make)	01 
+Key: Esc    (break)	81 
+Key: Help   ( make)	E0 3B 
+Key: Help   (break)	E0 BB 
+Key: Undo   ( make)	E0 08 
+Key: Undo   (break)	E0 88 
+Key: Redo   ( make)	E0 07 
+Key: Redo   (break)	E0 87 
+Key: New    ( make)	E0 3E 
+Key: New    (break)	E0 BE 
+Key: Open   ( make)	E0 3F 
+Key: Open   (break)	E0 BF 
+Key: Close  ( make)	E0 40 
+Key: Close  (break)	E0 C0 
+Key: Reply  ( make)	E0 41 
+Key: Reply  (break)	E0 C1 
+Key: Forward ( make)	E0 42 
+Key: Forward (break)	E0 C2 
+Key: Send   ( make)	E0 43 
+Key: Send   (break)	E0 C3 
+Key: Spell  ( make)	E0 23 
+Key: Spell  (break)	E0 A3 
+Key: Save   ( make)	E0 57 
+Key: Save   (break)	E0 D7 
+Key: Print  ( make)	E0 58 
+Key: Print  (break)	E0 D8 
+Key: Print  ( make)	E0 2A E0 37 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Print  (break)	E0 B7 E0 AA 
+Key: Pause  ( make)	E1 1D 45 
+Key: Pause  (break)	E1 9D C5 
+Key: Calc   ( make)	E0 21 
+Key: Calc   (break)	E0 A1 
+Key: Log Off ( make)	E0 16 
+Key: Log Off (break)	E0 96 
+Key: Sleep  ( make)	E0 5F 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Sleep  (break)	E0 DF 
+Key: ~      ( make)	29 
+Key: ~      (break)	A9 
+Key: 1      ( make)	02 
+Key: ??Unknown?? (break)	E0 81 
+Key: 1      ( make)	02 
+Key: 1      (break)	82 
+Key: 2      ( make)	03 
+Key: 2      (break)	83 
+Key: 3      ( make)	04 
+Key: 3      (break)	84 
+Key: 4      ( make)	05 
+Key: ??Unknown?? ( make)	E0 59 
+Key: 4      (break)	85 
+Key: 5      ( make)	06 
+Key: 5      (break)	86 
+Key: 6      ( make)	07 
+Key: 6      (break)	87 
+Key: 7      ( make)	08 
+Key: 7      (break)	88 
+Key: 8      ( make)	09 
+Key: 8      (break)	89 
+Key: 9      ( make)	0A 
+Key: 9      (break)	8A 
+Key: 0      ( make)	0B 
+Key: 0      (break)	8B 
+Key: -      ( make)	0C 
+Key: -      (break)	8C 
+Key: =      ( make)	0D 
+Key: =      (break)	8D 
+Key: Backspace ( make)	0E 
+Key: Backspace (break)	8E 
+Key: Home   ( make)	E0 47 
+Key: Home   (break)	E0 C7 
+Key: End    ( make)	E0 4F 
+Key: End    (break)	E0 CF 
+Key: Num    ( make)	45 
+Key: Num    (break)	C5 
+Key: Num /  ( make)	E0 35 
+Key: Num /  (break)	E0 B5 
+Key: Num *  ( make)	37 
+Key: Num *  (break)	B7 
+Key: Num -  ( make)	4A 
+Key: Num -  (break)	CA 
+Key: Tab    ( make)	0F 
+Key: Tab    (break)	8F 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Q      ( make)	10 
+Key: Q      (break)	90 
+Key: W      ( make)	11 
+Key: W      (break)	91 
+Key: E      ( make)	12 
+Key: E      (break)	92 
+Key: R      ( make)	13 
+Key: R      (break)	93 
+Key: T      ( make)	14 
+Key: T      (break)	94 
+Key: Y      ( make)	15 
+Key: Y      (break)	95 
+Key: U      ( make)	16 
+Key: U      (break)	96 
+Key: I      ( make)	17 
+Key: I      (break)	97 
+Key: O      ( make)	18 
+Key: O      (break)	98 
+Key: P      ( make)	19 
+Key: P      (break)	99 
+Key: [      ( make)	1A 
+Key: [      (break)	9A 
+Key: ]      ( make)	1B 
+Key: ]      (break)	9B 
+Key: \      ( make)	2B 
+Key: \      (break)	AB 
+Key: Del    ( make)	E0 2A E0 53 
+Key: Del    (break)	E0 D3 E0 AA 
+Key: PgU    ( make)	E0 2A E0 49 
+Key: PgU    (break)	E0 C9 E0 AA 
+Key: Num 7  ( make)	47 
+Key: Num 7  (break)	C7 
+Key: Num 8  ( make)	48 
+Key: Num 8  (break)	C8 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Num 9  ( make)	49 
+Key: Num 9  (break)	C9 
+Key: Num +  ( make)	4E 
+Key: Num +  (break)	CE 
+Key: Caps   ( make)	3A 
+Key: Caps   (break)	BA 
+Key: A      ( make)	1E 
+Key: A      (break)	9E 
+Key: S      ( make)	1F 
+Key: S      (break)	9F 
+Key: D      ( make)	20 
+Key: D      (break)	A0 
+Key: F      ( make)	21 
+Key: F      (break)	A1 
+Key: G      ( make)	22 
+Key: G      (break)	A2 
+Key: H      ( make)	23 
+Key: H      (break)	A3 
+Key: J      ( make)	24 
+Key: J      (break)	A4 
+Key: K      ( make)	25 
+Key: K      (break)	A5 
+Key: L      ( make)	26 
+Key: L      (break)	A6 
+Key: ;      ( make)	27 
+Key: ;      (break)	A7 
+Key: '      ( make)	28 
+Key: '      (break)	A8 
+Key: Enter  ( make)	1C 
+Key: Enter  (break)	9C 
+Key: PgD    ( make)	E0 2A E0 51 
+Key: PgD    (break)	E0 D1 E0 AA 
+Key: Num 4  ( make)	4B 
+Key: Num 4  (break)	CB 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Num 5  ( make)	4C 
+Key: Num 5  (break)	CC 
+Key: Num 6  ( make)	4D 
+Key: Num 6  (break)	CD 
+Key: Shift  ( make)	2A 				* left Shift
+Key: Shift  (break)	AA 				* left Shift
+Key: Z      ( make)	2C 
+Key: Z      (break)	AC 
+Key: X      ( make)	2D 
+Key: X      (break)	AD 
+Key: C      ( make)	2E 
+Key: C      (break)	AE 
+Key: V      ( make)	2F 
+Key: V      (break)	AF 
+Key: B      ( make)	30 
+Key: B      (break)	B0 
+Key: N      ( make)	31 
+Key: N      (break)	B1 
+Key: M      ( make)	32 
+Key: M      (break)	B2 
+Key: ??Unknown?? (break)	E0 81 
+Key: ,      ( make)	33 
+Key: ,      (break)	B3 
+Key: .      ( make)	34 
+Key: .      (break)	B4 
+Key: /      ( make)	35 
+Key: /      (break)	B5 
+Key: Shift  ( make)	36 				* right Shift
+Key: Shift  (break)	B6 				* right Shift
+Key: Up Arrow ( make)	E0 2A E0 48 
+Key: Up Arrow (break)	E0 C8 E0 AA 
+Key: Num 1  ( make)	4F 
+Key: ??Unknown?? ( make)	E0 59 
+Key: Num 1  (break)	CF 
+Key: Num 2  ( make)	50 
+Key: Num 2  (break)	D0 
+Key: Num 3  ( make)	51 
+Key: Num 3  (break)	D1 
+Key: Enter  ( make)	E0 1C 				* numeric keypad
+Key: Enter  (break)	E0 9C 				* numeric keypad
+Key: Ctrl   ( make)	1D 				* left Ctrl
+Key: Ctrl   (break)	9D 				* left Ctrl
+Key: Left Win ( make)	E0 5B 
+Key: Left Win (break)	E0 DB 
+Key: Alt    ( make)	38 				* left Alt
+Key: Alt    (break)	B8 				* left Alt
+Key: Space  ( make)	39 
+Key: Space  (break)	B9 
+Key: Alt    ( make)	E0 38				* right Alt 
+Key: Alt    (break)	E0 B8 				* right Alt 
+Key: Apps   ( make)	E0 5D 
+Key: Apps   (break)	E0 DD 
+Key: Ctrl   ( make)	E0 1D 				* right Ctrl
+Key: Ctrl   (break)	E0 9D 				* right Ctrl
+Key: Left Arrow ( make)	E0 2A E0 4B 
+Key: Left Arrow (break)	E0 CB E0 AA 
+Key: Down Arrow ( make)	E0 2A E0 50 
+Key: Down Arrow (break)	E0 D0 E0 AA 
+Key: Right Arrow ( make)	E0 2A E0 4D 
+Key: Right Arrow (break)	E0 CD E0 AA 
+Key: Num 0/Ins ( make)	52 
+Key: Num 0/Ins (break)	D2 
+Key: Num ./Del ( make)	53 
+Key: Num ./Del (break)	D3 
+Key: ??Unknown?? ( make)	E0 59 
+Key: F1     ( make)	3B 
+Key: F1     (break)	BB 
+Key: F2     ( make)	3C 
+Key: F2     (break)	BC 
+Key: F3     ( make)	3D 
+Key: F3     (break)	BD 
+Key: F4     ( make)	3E 
+Key: F4     (break)	BE 
+Key: F5     ( make)	3F 
+Key: F5     (break)	BF 
+Key: F6     ( make)	40 
+Key: F6     (break)	C0 
+Key: F7     ( make)	41 
+Key: F7     (break)	C1 
+Key: F8     ( make)	42 
+Key: F8     (break)	C2 
+Key: F9     ( make)	43 
+Key: F9     (break)	C3 
+Key: F10    ( make)	44 
+Key: F10    (break)	C4 
+Key: F11    ( make)	57 
+Key: F11    (break)	D7 
+Key: F12    ( make)	58 
+Key: F12    (break)	D8 
+Key: Ins    ( make)	E0 2A E0 52 
+Key: Ins    (break)	E0 D2 E0 AA 
+Key: Scroll ( make)	46 
+Key: Scroll (break)	C6 
+=======================================
+1 Key Test= PASS
+=======================================
+Key: Scroll (break)	C6 
